@@ -1,7 +1,8 @@
 # FICBank — Network Hardening and Firewall Defense (Part B)
 
 ## Project File
-[(https://github.com/Viney-Washington/FICBank---Network-Hardening-and-Firewall-Defense-Part-B/blob/main/Viney%20Washington_%20Part%20B%20Hardening%20the%20Network.pdf)
+(https://github.com/Viney-Washington/FICBank---Network-Hardening-and-Firewall-Defense-Part-B/blob/main/Viney%20Washington_%20Part%20B%20Hardening%20the%20Network.pdf)
+
 ## Project Overview
 This project focused on identifying network-based threats and strengthening defenses through firewall configuration and traffic analysis. Security controls were implemented and tested to reduce exposure to common network attacks within the FIC Bank environment.
 
